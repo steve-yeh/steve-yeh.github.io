@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 1st year Economics Ph.D. student at Columbia University. I graduated _Summa Cum Laude_ in Economics and _Magna Cum Laude_ in Mathematics (Concentration in Pure Mathematics) with Minors in Computer Science and Law & Society from Cornell University in May 2021.
-
-My research focuses on microeconomic theory, labor economics and development economics.
+I am currently a 3rd year Economics Ph.D. student at Columbia University. My research focuses on networks and microeconomic theory.
