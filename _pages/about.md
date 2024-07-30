@@ -15,18 +15,16 @@ I graduated _Summa Cum Laude_ in Economics and _Magna Cum Laude_ in Mathematics 
 
 My CV is linked [here](..\files\Steve_Yeh_CV.pdf).
 
-Working Papers
-======
+## Working Papers
+
 
 [Optimal Task Assignments](..\files\Optimal Task Assignments.pdf)
 
-Works-in-Progress
-======
+## Works-in-Progress
 
 Plausible Pairwise Stability
 
-Presentations
-======
+## Presentations
 
 * 35th Stony Brook International Conference on Game Theory
 * Northwestern-Kellogg Summer School in Economic Theory
