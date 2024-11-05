@@ -18,7 +18,7 @@ My CV is linked [here](..\files\Steve_Yeh_CV.pdf).
 ## Working Papers
 
 
-[Optimal Task Assignments](..\files\Optimal Task Assignments.pdf)
+[Optimal Task Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892)
 
 ## Works-in-Progress
 
