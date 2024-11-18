@@ -19,6 +19,10 @@ My CV is linked [here](..\files\Steve_Yeh_CV.pdf).
 
 
 [Optimal Task Assignments for Projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892)
+<details open>
+  <summary>Abstract</summary>
+  A principal assigns tasks to agents working on a multi-task project. Effort on one task substitutes for effort on similar tasks. Assigning each agent to a few tasks lightens workloads, but agents tend to shirk and rely on others’ efforts. Assigning the same agent to more tasks mitigates free-riding but may prevent an agent from completing all their assigned tasks due to convex effort costs. I study optimal task assignments in key-peripheral projects: those that comprise peripheral tasks (linked to one other task) and key tasks (linked to multiple peripheral tasks). I show that the modular task assignment, where each agent handles a module consisting of a key task and all its associated peripheral tasks, is optimal when all key tasks are, in a certain sense, sufficiently ``specialized." For non-key-peripheral projects, further assumptions on effort costs and project structure are needed to characterize the optimal assignment.
+</details>
 
 ## Works-in-Progress
 
