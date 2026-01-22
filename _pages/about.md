@@ -17,11 +17,12 @@ My CV is linked [here](..\files\Steve_Yeh_CV.pdf).
 
 ## Working Papers
 
-[A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) with E. Sadler
+[A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with E. Sadler)
 <details open>
   <summary>Abstract</summary>
   In conventional network games, each player chooses one action that impacts all of her neighbors. We study players that select neighbor-specific efforts and face a convex total effort cost. Our main result highlights a striking reversal in comparative statics: When bilateral efforts are strategic complements (substitutes), shocks propagate through the network in a pattern befitting strategic substitutes (complements) in standard network games. This reversal, together with other fundamental changes in player behavior, suggests that retaining the single effort assumption when it is not appropriate may lead to poor policy recommendations.
 </details>
+
 
 
 [Optimal Project Task Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892)
