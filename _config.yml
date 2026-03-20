@@ -1,5 +1,5 @@
 # Basic Information 
-title: Steve
+title: Steve Yeh
 position: Ph.D. Student
 affiliation: Columbia University
 email: sy3012@columbia.edu
@@ -52,3 +52,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+  - _data/
