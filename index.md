@@ -13,7 +13,6 @@ I graduated _Summa Cum Laude_ in Economics and _Magna Cum Laude_ in Mathematics 
 My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
-<br>
 
 ## Working Papers
 
@@ -46,26 +45,13 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 *Presented at: 35th Stony Brook International Conference on Game Theory, Northwestern-Kellogg Summer School in Economic Theory.*
 
 <br>
-<br>
 
 ## Works-in-Progress
 
 A Network Theory of Project Management.
 
 <br>
-<br>
-
-## Teaching
-
-| **Microeconomics I (MPA)**                | **Microeconomic Analysis I (MA)**    | **Microeconomic Analysis II (MA)** |
-|:-------------------------------------:|:--------------------------------:|:------------------------------:|
-| Summer 2023, Summer 2024, Summer 2025 | Fall 2024, Fall 2022             | Spring 2024                    |
-
-| **Game Theory (UG)**                      | **Intermediate Microeconomics (UG)** | **Principles of Economics (UG)**   |
-|:-------------------------------------:|:--------------------------------:|:------------------------------:|
-|Spring 2025                        | Spring 2023                   | Fall 2023                   |
-
 
 ## Refereeing
 
-* Program Committee for EC'26, Journal of Economic Theory.
+Program Committee for EC'26, Journal of Economic Theory.
