@@ -53,3 +53,4 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
   - _data/
+  - _includes/

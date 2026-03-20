@@ -12,9 +12,12 @@ I graduated _Summa Cum Laude_ in Economics and _Magna Cum Laude_ in Mathematics 
 
 My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
+<br>
+<br>
+
 ## Working Papers
 
-#### [Plausible Pairwise Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978)
+### [Plausible Pairwise Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978)
 <details>
   <summary>Abstract</summary>
   I propose a stability concept for network formation under incomplete information. A network is plausibly pairwise stable if players' beliefs are consistent with common knowledge that the network is pairwise stable. I provide a condition for when plausibly pairwise stable networks exhibit clustering. In a model of vertical differentiation, I characterize the exact structure of minimally plausibly pairwise stable networks. They tend to be more segregated and contain more isolated players than pairwise stable networks. I discuss how incomplete information resolves the tension between stability and efficiency when there are negative linking externalities.
@@ -24,7 +27,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-#### [A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with E. Sadler)
+### [A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with E. Sadler)
 <details>
   <summary>Abstract</summary>
   In conventional network games, each player chooses one action that impacts all of her neighbors. We study players that select neighbor-specific efforts and face a convex total effort cost. Our main result highlights a striking reversal in comparative statics: When bilateral efforts are strategic complements (substitutes), shocks propagate through the network in a pattern befitting strategic substitutes (complements) in standard network games. This reversal, together with other fundamental changes in player behavior, suggests that retaining the single effort assumption when it is not appropriate may lead to poor policy recommendations.
@@ -34,7 +37,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-#### [Optimal Project Task Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892)
+### [Optimal Project Task Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892)
 <details>
   <summary>Abstract</summary>
   A principal assigns agents to tasks in a multi-task project. Agents tend to shirk at their tasks and rely on others’ efforts because effort on one task substitutes for effort on similar tasks. Assigning the same agent to more tasks mitigates free-riding, but convex effort costs prevent him from completing all of his tasks. For a class of projects, an optimal task assignment assigns each agent to a module comprising a task central to the project and all locally related tasks. For general projects, modular task assignments are approximately optimal with a performance guarantee that depends on a project's task structure.
@@ -42,33 +45,27 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 *Presented at: 35th Stony Brook International Conference on Game Theory, Northwestern-Kellogg Summer School in Economic Theory.*
 
+<br>
+<br>
 
 ## Works-in-Progress
 
 A Network Theory of Project Management.
 
+<br>
+<br>
+
 ## Teaching
 
-##### Microeconomics I (MPA)
-*Summer 2023, Summer 2024, Summer 2025.*
+| **Microeconomics I (MPA)**                | **Microeconomic Analysis I (MA)**    | **Microeconomic Analysis II (MA)** |
+|:-------------------------------------:|:--------------------------------:|:------------------------------:|
+| Summer 2023, Summer 2024, Summer 2025 | Fall 2024, Fall 2022             | Spring 2024                    |
 
-##### Microeconomic Analysis I (MA)
-*Fall 2024, Fall 2022.*
-
-##### Microeconomic Analysis II (MA)
-*Spring 2024.*
-
-##### Game Theory (UG)
-*Spring 2025.*
-
-##### Intermediate Microeconomics (UG)
-*Spring 2023.*
-
-##### Principles of Economics (UG)
-*Fall 2023.*
-*Runner-up for Wueller Best Teaching Fellow*
+| **Game Theory (UG)**                      | **Intermediate Microeconomics (UG)** | **Principles of Economics (UG)**   |
+|:-------------------------------------:|:--------------------------------:|:------------------------------:|
+|Spring 2025                        | Spring 2023                   | Fall 2023                   |
 
 
 ## Refereeing
 
-* PC for EC'26, Journal of Economic Theory.
+* Program Committee for EC'26, Journal of Economic Theory.
