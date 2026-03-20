@@ -4,16 +4,72 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a 5th year PhD student in the Department of Economics at Columbia University. 
 
-## Research Interests
+My research interests include networks and game theory. I am advised by Prof. Evan Sadler.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I graduated _Summa Cum Laude_ in Economics and _Magna Cum Laude_ in Mathematics (Concentration in Pure Math) with Minors in Computer Science and Law & Society from Cornell University in May 2021. 
 
-## News
+My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Working Papers
+
+[Plausible Pairwise Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978)
+<details>
+  <summary>Abstract</summary>
+  I propose a stability concept for network formation under incomplete information. A network is plausibly pairwise stable if players' beliefs are consistent with common knowledge that the network is pairwise stable. I provide a condition for when plausibly pairwise stable networks exhibit clustering. In a model of vertical differentiation, I characterize the exact structure of minimally plausibly pairwise stable networks. They tend to be more segregated and contain more isolated players than pairwise stable networks. I discuss how incomplete information resolves the tension between stability and efficiency when there are negative linking externalities.
+</details>  
+
+*Presented at: 36th Stony Brook International Conference on Game Theory, 2026 North American Summer Meeting of the Econometric Society (Upcoming).*
+
+<br>
+
+[A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with E. Sadler)
+<details>
+  <summary>Abstract</summary>
+  In conventional network games, each player chooses one action that impacts all of her neighbors. We study players that select neighbor-specific efforts and face a convex total effort cost. Our main result highlights a striking reversal in comparative statics: When bilateral efforts are strategic complements (substitutes), shocks propagate through the network in a pattern befitting strategic substitutes (complements) in standard network games. This reversal, together with other fundamental changes in player behavior, suggests that retaining the single effort assumption when it is not appropriate may lead to poor policy recommendations.
+</details>  
+
+*Presented at: Conference on Network Science and Economics (Upcoming).*
+
+<br>
+
+[Optimal Project Task Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892)
+<details>
+  <summary>Abstract</summary>
+  A principal assigns agents to tasks in a multi-task project. Agents tend to shirk at their tasks and rely on others’ efforts because effort on one task substitutes for effort on similar tasks. Assigning the same agent to more tasks mitigates free-riding, but convex effort costs prevent him from completing all of his tasks. For a class of projects, an optimal task assignment assigns each agent to a module comprising a task central to the project and all locally related tasks. For general projects, modular task assignments are approximately optimal with a performance guarantee that depends on a project's task structure.
+</details>
+
+*Presented at: 35th Stony Brook International Conference on Game Theory, Northwestern-Kellogg Summer School in Economic Theory.*
+
+
+## Works-in-Progress
+
+A Network Theory of Project Management.
+
+## Teaching
+
+# Microeconomics I (MPA)
+*Summer 2023, Summer 2024, Summer 2025.*
+
+# Microeconomic Analysis I (MA)
+*Fall 2024, Fall 2022.*
+
+# Microeconomic Analysis II (MA)
+*Spring 2024.*
+
+# Game Theory (UG)
+*Spring 2025.*
+
+# Intermediate Microeconomics (UG)
+*Spring 2023.*
+
+# Principles of Economics (UG)
+*Fall 2023.*
+*Runner-up for Wueller Best Teaching Fellow*
+
+
+
+## Refereeing
+
+* PC for EC'26, Journal of Economic Theory.
