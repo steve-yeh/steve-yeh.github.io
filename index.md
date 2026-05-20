@@ -32,7 +32,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
   In conventional network games, each player chooses one action that impacts all of her neighbors. We study players that select neighbor-specific efforts and face a convex total effort cost. Our main result highlights a striking reversal in comparative statics: When bilateral efforts are strategic complements (substitutes), shocks propagate through the network in a pattern befitting strategic substitutes (complements) in standard network games. This reversal, together with other fundamental changes in player behavior, suggests that retaining the single effort assumption when it is not appropriate may lead to poor policy recommendations.
 </details>  
 
-*Presented at: Conference on Network Science and Economics (Upcoming).*
+*Presented at: 11th Annual Conference on Network Science and Economics, EC '26 (Upcoming).*
 
 <br>
 
