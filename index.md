@@ -28,7 +28,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ### [A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with E. Sadler) 
 
-#### Accepted for Presentation at EC '26.
+#### Accepted at EC '26.
 
 <details>
   <summary>Abstract</summary>
