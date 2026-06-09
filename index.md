@@ -22,11 +22,14 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
   I propose a stability concept for network formation under incomplete information. A network is plausibly pairwise stable if players' beliefs are consistent with common knowledge that the network is pairwise stable. I provide a condition for when plausibly pairwise stable networks exhibit clustering. In a model of vertical differentiation, I characterize the exact structure of minimally plausibly pairwise stable networks. They tend to be more segregated and contain more isolated players than pairwise stable networks. I discuss how incomplete information resolves the tension between stability and efficiency when there are negative linking externalities.
 </details>  
 
-*Presented at: 36th Stony Brook International Conference on Game Theory, 2026 North American Summer Meeting of the Econometric Society (Upcoming).*
+*Presented at: 36th Stony Brook International Conference on Game Theory, 2026 North American Summer Meeting of the Econometric Society.*
 
 <br>
 
-### [A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with E. Sadler)
+### [A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with E. Sadler) 
+
+#### Accepted for Presentation at EC '26.
+
 <details>
   <summary>Abstract</summary>
   In conventional network games, each player chooses one action that impacts all of her neighbors. We study players that select neighbor-specific efforts and face a convex total effort cost. Our main result highlights a striking reversal in comparative statics: When bilateral efforts are strategic complements (substitutes), shocks propagate through the network in a pattern befitting strategic substitutes (complements) in standard network games. This reversal, together with other fundamental changes in player behavior, suggests that retaining the single effort assumption when it is not appropriate may lead to poor policy recommendations.
