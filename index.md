@@ -19,7 +19,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 ### [Plausible Pairwise Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978)
 <details>
   <summary>Abstract</summary>
-  I propose a stability concept for network formation under incomplete information. A network is plausibly pairwise stable if players' beliefs are consistent with common knowledge that the network is pairwise stable. I provide a condition for when plausibly pairwise stable networks exhibit clustering. In a model of vertical differentiation, I characterize the exact structure of minimally plausibly pairwise stable networks. They tend to be more segregated and contain more isolated players than pairwise stable networks. I discuss how incomplete information resolves the tension between stability and efficiency when there are negative linking externalities.
+  I propose a stability concept for network formation under incomplete information. A network is plausibly pairwise stable if players’ beliefs are consistent with common knowledge of network stability. I provide a general condition under which plausibly pairwise stable networks exhibit clustering. In a simple model of vertical differentiation, I characterize minimal plausibly pairwise stable networks. I show that incomplete information can stabilize segregated and sparse networks that are unstable under complete information. I discuss how incomplete information resolves the tension between stability and efficiency in the presence of negative linking externalities.
 </details>  
 
 *Presented at: 36th Stony Brook International Conference on Game Theory, 2026 North American Summer Meeting of the Econometric Society.*
