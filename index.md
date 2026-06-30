@@ -16,7 +16,9 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ## Working Papers
 
-### [A Netowork Theory of Project Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898)
+<br>
+
+### [A Network Theory of Project Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898)
 <details>
   <summary>Abstract</summary>
   A principal assigns multiple agents to multiple projects by setting effort caps. Agents prefer specific projects, enjoy collaborating with others, but face a convex cost of effort. The principal’s primary instrument is limiting agents’ efforts on certain projects to prioritize other projects, even if agents prefer to work more on the former. Optimal project assignments organize project teams into a *nested hierarchy*: teams working on high-value projects are larger and include every agent assigned to lower-value projects. Shocks propagate in the organization through a network induced by the project assignment.
@@ -24,6 +26,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 *Presented at: 37th Stony Brook International Conference on Game Theory (Upcoming), Economics of Networks Workshop at Stony Brook (Upcoming).*
 
+<br>
 
 ### [Plausible Pairwise Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978)
 <details>
