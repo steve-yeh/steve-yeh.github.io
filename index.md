@@ -4,7 +4,7 @@ layout: homepage
 
 <style>
 .shaded-box {
-    background-color: #d8d8d8ff;
+    background-color: #f7f6f1ff;
      border-left: 5px solid #82c1eb9a;
      padding: 15px; 
      border-radius: 8px;
@@ -27,7 +27,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-<div class="shaded-box">
+<div class="shaded-box" markdown="1">
 
 ### [A Network Theory of Project Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898)
 <details>
@@ -43,7 +43,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-<div class="shaded-box">
+<div class="shaded-box" markdown="1">
 
 ### [Plausible Pairwise Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978)
 <details>
@@ -59,7 +59,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-<div class="shaded-box">
+<div class="shaded-box" markdown="1">
 
 ### [A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with Evan Sadler) 
 
@@ -78,7 +78,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-<div class="shaded-box">
+<div class="shaded-box" markdown="1">
 
 ### [Optimal Project Task Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892)
 <details>
