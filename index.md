@@ -4,7 +4,7 @@ layout: homepage
 
 <style>
 .shaded-box {
-    background-color: #f7f6f1ff;
+    background-color: #f7f6f113;
      border-left: 5px solid #82c1eb9a;
      padding: 15px; 
      border-radius: 8px;
