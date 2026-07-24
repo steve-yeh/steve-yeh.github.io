@@ -2,12 +2,23 @@
 layout: homepage
 ---
 
-<style>
-.shaded-box {
-    background-color: #f7f6f113;
-     border-left: 5px solid #82c1eb9a;
-     padding: 15px; 
-     border-radius: 8px;
+<style> 
+.shaded-box { 
+  background-color: #f7f6f113; 
+  padding: 15px; 
+  border-radius: 8px; 
+} 
+.shaded-box h3 {
+  color: #3777a1ff;
+  border-bottom: 3px solid #3777a1ff;
+  padding-bottom: 8px;
+  margin-top: 0;
+  width: 100%; /* Ensures it spans the full container width */
+
+}
+.shaded-box h3 a {
+  color: inherit; 
+  text-decoration: none; /* Optional: removes the default underline from the link text */
 }
 </style>
 
