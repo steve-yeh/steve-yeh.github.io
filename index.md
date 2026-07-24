@@ -25,26 +25,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-## Working Papers
-
-<br>
-
-<div class="shaded-box" markdown="1">
-
-### [A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with Evan Sadler) 
-
-#### Extended abstract at EC '26.
-
-<details>
-  <summary>Abstract</summary>
-  In conventional network games, each player chooses one action that impacts all of her neighbors. We study players that select neighbor-specific efforts and face a convex total effort cost. Our main result highlights a striking reversal in comparative statics: When bilateral efforts are strategic complements (substitutes), shocks propagate through the network in a pattern befitting strategic substitutes (complements) in standard network games. This reversal, together with other fundamental changes in player behavior, suggests that retaining the single effort assumption when it is not appropriate may lead to poor policy recommendations.
-</details>  
-
-<br>
-
-*Presented at: 11th Annual Conference on Network Science and Economics, EC '26 (Upcoming).*
-
-</div>
+## Job Market Paper
 
 <br>
 
@@ -64,7 +45,30 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-*Presented at: 37th Stony Brook International Conference on Game Theory (Upcoming), Economics of Networks Workshop at Stony Brook (Upcoming).*
+*Presented at: 37th Stony Brook International Conference on Game Theory, Economics of Networks Workshop at Stony Brook.*
+
+</div>
+
+<br>
+
+## Working Papers
+
+<br>
+
+<div class="shaded-box" markdown="1">
+
+### [A Shocking Reversal: Flipping Complements and Substitutes in Network Games](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228) (with Evan Sadler) 
+
+#### Extended abstract at EC '26.
+
+<details>
+  <summary>Abstract</summary>
+  In conventional network games, each player chooses one action that impacts all of her neighbors. We study players that select neighbor-specific efforts and face a convex total effort cost. Our main result highlights a striking reversal in comparative statics: When bilateral efforts are strategic complements (substitutes), shocks propagate through the network in a pattern befitting strategic substitutes (complements) in standard network games. This reversal, together with other fundamental changes in player behavior, suggests that retaining the single effort assumption when it is not appropriate may lead to poor policy recommendations.
+</details>  
+
+<br>
+
+*Presented at: 11th Annual Conference on Network Science and Economics, EC '26.*
 
 </div>
 
