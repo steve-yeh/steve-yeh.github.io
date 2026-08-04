@@ -42,10 +42,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <div class="shaded-box" markdown="1">
 
-## A Network Theory of Project Management <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #ad7738ff; font-size: 17px;">[SSRN]</a>
-<div style="color: red;">
-  [New draft coming soon!]
-  </div>
+## [A Network Theory of Project Management](assets/files/Network_Theory_of_Project_Management.pdf) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #ad7738ff; font-size: 17px;">[SSRN]</a>
 
 <details>
 
@@ -55,7 +52,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <br>
 
-*Presented at: 37th Stony Brook International Conference on Game Theory, Economics of Networks Workshop at Stony Brook.*
+*Presented at: 37th Stony Brook International Conference on Game Theory, Economics of Networks Workshop at Stony Brook, Advances in Economic Theory and Beyond at Tsinghua University (Upcoming).*
 
 </div>
 
