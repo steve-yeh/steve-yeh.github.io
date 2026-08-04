@@ -47,7 +47,8 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 <details>
 
   <summary>Abstract</summary>
-  A principal assigns multiple agents to multiple projects by setting effort caps. Agents prefer specific projects, enjoy collaborating with others, but face a convex cost of effort. The principal’s primary instrument is limiting agents’ efforts on certain projects to prioritize other projects, even if agents prefer to work more on the former. Optimal project assignments organize project teams into a nested hierarchy: teams working on high-value projects are larger and include every agent assigned to lower-value projects. Shocks propagate in the organization through a network induced by the project assignment.
+  A principal assigns workers to projects by capping the effort they may exert. Workers differ in their preferences for projects, enjoy collaborating, but find spreading effort across projects costly. Optimal project assignments constitute a nested hierarchy. Each worker’s assignment is derived from the same ranking of projects— the principal’s marginal value in the optimum— but with two idiosyncratic cutoffs: he is unconstrained at projects above the first, capped between the two, and unassigned below the second. The principal
+  tends to cap a worker where he most prefers to work. Shocks propagate through the network induced by the project assignment. An improvement local to one project can degrade every other project in the organization.
 </details>  
 
 <br>
