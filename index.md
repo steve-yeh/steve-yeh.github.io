@@ -57,12 +57,8 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ## A Network Theory of Project Management
 
-<div class="custom-box" markdown="1">
-  <a href="assets/files/Network_Theory_of_Project_Management.pdf" style="color: #29638aff; font-size: 15px;"><strong>Draft</strong></a>
-</div>
-<div class="custom-box" markdown="1">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #29638aff; font-size: 15px;"><strong>SSRN</strong></a>
-</div>
+<div class="custom-box" markdown="1"><a href="assets/files/Network_Theory_of_Project_Management.pdf" style="color: #29638aff; font-size: 15px;"><strong>Draft</strong></a></div>
+<div class="custom-box" markdown="1"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #29638aff; font-size: 15px;"><strong>SSRN</strong></a></div>
 
 <br>
 
@@ -91,9 +87,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 #### Extended abstract at EC '26.
 
-<div class="custom-box" markdown="1">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228" style="color: #29638aff; font-size: 15px;"><strong>SSRN</strong></a>
-</div>
+<div class="custom-box" markdown="1"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228" style="color: #29638aff; font-size: 15px;"><strong>SSRN</strong></a></div>
 
 <br>
 
@@ -114,9 +108,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ## Plausible Pairwise Stability
 
-<div class="custom-box" markdown="1">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978" style="color: #29638aff; font-size: 15px;"><strong>SSRN</strong></a>
-</div>
+<div class="custom-box" markdown="1"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978" style="color: #29638aff; font-size: 15px;"><strong>SSRN</strong></a></div>
 
 <br>
 
@@ -137,9 +129,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ## Optimal Project Task Assignments
 
-<div class="custom-box" markdown="1">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892" style="color: #29638aff; font-size: 15px;"><strong>SSRN</strong></a>
-</div>
+<div class="custom-box" markdown="1"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892" style="color: #29638aff; font-size: 15px;"><strong>SSRN</strong></a></div>
 
 <br>
 
@@ -155,10 +145,6 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 </div>
 
 <br>
-
-
-  
-
 
 ## Refereeing
 
