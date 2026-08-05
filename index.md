@@ -46,10 +46,10 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 ## A Network Theory of Project Management
 
 <div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
-    <a href="assets/files/Network_Theory_of_Project_Management.pdf" style="color: #275e83ff; font-size: 15px;"><strong>Draft</strong></a>
+    <a href="assets/files/Network_Theory_of_Project_Management.pdf" style="color: #275e83ff !important; font-size: 15px;"><strong>Draft</strong></a>
 </div>
 <div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #245475;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #275e83ff; font-size: 15px;"><strong>SSRN</strong></a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
 
 <br>
@@ -80,7 +80,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 #### Extended abstract at EC '26.
 
 <div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228" style="color: #275e83ff; font-size: 15px;"><strong>SSRN</strong></a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
 
 <br>
@@ -103,7 +103,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 ## Plausible Pairwise Stability
 
 <div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978" style="color: #275e83ff; font-size: 15px;"><strong>SSRN</strong></a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
 
 <br>
@@ -126,7 +126,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 ## Optimal Project Task Assignments
 
 <div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892" style="color: #275e83ff; font-size: 15px;"><strong>SSRN</strong></a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
 
 <br>
