@@ -160,7 +160,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 12px;
     }
 
       .image.avatar:before {
@@ -168,8 +168,10 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
+        border-radius: 12px;
+        width: 54%;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -178,7 +180,7 @@ papertitle {
 
     #header .image.avatar {
       margin: 0 0 1em 0;
-      width: 8.00em;
+      width: 9.6em;
     }
 
 h3, h4, h5, h6 {
@@ -420,8 +422,10 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
+        border-radius: 12px;
+        width: 140px;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
         padding:20px;
       }
   #head1o2 {
@@ -476,8 +480,10 @@ footer {
   }
 
   .image.avatar img {
-      border-radius: 100%;
-      width: 95px;
+      border-radius: 12px;
+      width: 114px;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
       padding:20px;
   }
   #head1o2 {

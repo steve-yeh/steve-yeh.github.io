@@ -26,7 +26,7 @@ layout: homepage
 
 I am currently a rising 6th year PhD student in the Department of Economics at Columbia University. 
 
-My research focuses on how networks 
+My research primarily focuses on how networks shape organiztions.
 
 #### I will be on the 2026-2027 job market.
 
@@ -38,8 +38,6 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ---
 
-<br>
-
 <div class="shaded-box" markdown="1">
 
 ### A Network Theory of Project Management
@@ -50,8 +48,6 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 <div style="display: inline-block; border: 1px solid #3777a140; padding: 5px 10px; border-radius: 10px; background-color: #3777a115; color: #245475;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
-
-<br>
 
 <details>
 
@@ -72,8 +68,6 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ---
 
-<br>
-
 <div class="shaded-box" markdown="1">
 
 ### A Shocking Reversal: Flipping Complements and Substitutes in Network Games (with Evan Sadler)
@@ -83,8 +77,6 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 <div style="display: inline-block; border: 1px solid #3777a140; padding: 5px 10px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
-
-<br>
 
 <details>
   <summary>Abstract</summary>
