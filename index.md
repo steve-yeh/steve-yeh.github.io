@@ -27,7 +27,6 @@ layout: homepage
     border-radius: 10px;
     background-color: #3777a115;
     color: #245475;
-    margin-right: 10px;
   }
   
   /* Optional: Remove margin from the very last box on the line */
