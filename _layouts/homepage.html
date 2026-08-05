@@ -18,6 +18,22 @@
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
+    {% if site.auto_dark_mode %}
+    <!-- Applies a saved theme choice before first paint, so a visitor who
+         picked a theme never sees the other one flash first. No stored
+         choice means the OS preference decides, as before. -->
+    <script>
+      (function () {
+        try {
+          var stored = localStorage.getItem('theme');
+          if (stored === 'light' || stored === 'dark') {
+            document.documentElement.setAttribute('data-theme', stored);
+          }
+        } catch (e) {}
+      })();
+    </script>
+    {% endif %}
+
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     
@@ -33,6 +49,9 @@
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
+
+    <!-- Paper listings. Must stay after the theme stylesheet above. -->
+    <link rel="stylesheet" href="./assets/css/papers.css">
 
   </head>
   <body>
@@ -90,6 +109,30 @@
         </a>
         {% endif %}
         </div>
+
+        {% if site.auto_dark_mode %}
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch between light and dark theme">
+          <span class="toggle-to-dark"><i class="fas fa-moon" aria-hidden="true"></i>Dark</span>
+          <span class="toggle-to-light"><i class="fas fa-sun" aria-hidden="true"></i>Light</span>
+        </button>
+        <script>
+          (function () {
+            var btn = document.getElementById('theme-toggle');
+            if (!btn) return;
+            btn.addEventListener('click', function () {
+              var root = document.documentElement;
+              var current = root.getAttribute('data-theme');
+              if (!current) {
+                current = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+              }
+              var next = current === 'dark' ? 'light' : 'dark';
+              root.setAttribute('data-theme', next);
+              try { localStorage.setItem('theme', next); } catch (e) {}
+            });
+          })();
+        </script>
+        {% endif %}
+
         <br>
 
       </header>

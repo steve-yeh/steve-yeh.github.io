@@ -1,5 +1,17 @@
+// Dark-mode context.
+// Emits each rule twice: once for "OS is dark and the visitor hasn't forced
+// light", once for "visitor explicitly chose dark" via the header toggle.
+// Written once here so the OS preference and the manual toggle stay in sync.
+@mixin dark {
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) { @content; }
+  }
+
+  html[data-theme="dark"] { @content; }
+}
+
 .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
 .social-icons a{
@@ -14,7 +26,7 @@
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
+@include dark { .social-icons a {color: #3eb7f0 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -35,7 +47,7 @@
       }
      */
 
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
+@include dark {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
     color:black;
     transform: scale(1.2)} 
     /*
@@ -53,6 +65,56 @@
         background: #a0b0ff;
       }
     */
+}
+
+/* ---- Light / dark theme toggle ---- */
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  margin: 0.5rem 0 0;
+  padding: 0.34rem 0.72rem;
+  background: transparent;
+  border: 1px solid rgba(4, 51, 97, 0.28);
+  border-radius: 999px;
+  color: #043361;
+  font-family: inherit;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.theme-toggle:hover {
+  border-color: #043361;
+  background-color: rgba(4, 51, 97, 0.06);
+}
+
+.theme-toggle span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+// The icon/label pair is swapped in CSS rather than JS, so it always
+// reflects the theme actually in effect — including the OS default
+// before the visitor has ever touched the toggle.
+.theme-toggle .toggle-to-light { display: none; }
+
+@include dark {
+  .theme-toggle {
+    border-color: rgba(62, 183, 240, 0.35);
+    color: #3eb7f0;
+  }
+
+  .theme-toggle:hover {
+    border-color: #3eb7f0;
+    background-color: rgba(62, 183, 240, 0.1);
+  }
+
+  .theme-toggle .toggle-to-dark  { display: none; }
+  .theme-toggle .toggle-to-light { display: inline-flex; }
 }
 
 .icon-button{
@@ -158,7 +220,7 @@ papertitle {
     font-size: 100%;
   }
 
-@media (prefers-color-scheme: dark) {
+@include dark {
     body {
         background-color: #20212b;
         color: #dadbdf;
@@ -248,7 +310,7 @@ h2 {
   font-size: 157%;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark {
   h1, h3, h4, h5, h6 {
     color:rgb(62, 183, 240);
   }
@@ -279,7 +341,7 @@ a:hover {
   color:#069;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark {
   a {
     color:rgb(62, 183, 240);
   }
@@ -342,7 +404,7 @@ th {
   color:#444;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark {
   th {
     color:rgb(62, 183, 240);
   }
@@ -415,7 +477,7 @@ strong {
   font-weight:500;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark {
   strong {
     color:#eeeff0;
   }

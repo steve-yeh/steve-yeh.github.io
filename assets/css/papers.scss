@@ -1,0 +1,178 @@
+---
+---
+
+// Styles for the paper listings on the homepage.
+// Loaded after the theme stylesheet so these rules win ties against it.
+
+// Mirrors the `dark` mixin in _sass/minimal-light.scss: emits each rule for
+// "OS is dark and the visitor hasn't forced light" and for "visitor chose
+// dark" via the header toggle. Collapses to nothing when the site has dark
+// mode switched off, so no dark rules ship that the page can't reach.
+@mixin dark {
+  {% if site.auto_dark_mode %}
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) { @content; }
+  }
+
+  html[data-theme="dark"] { @content; }
+  {% endif %}
+}
+
+:root {
+  --paper-title:    #043361;  // paper titles
+  --paper-link:     #1a5480;  // Draft / SSRN buttons
+  --paper-link-on:  #ffffff;  // text once a button is filled on hover
+  --paper-note:     #8c2f39;  // venue/status note, e.g. "Extended abstract at EC '26"
+  --paper-muted:    #6b6b6b;  // coauthor byline, "Presented at" line
+  --paper-section:  #737373;  // section labels
+  --paper-rule:     #e3e3e3;
+}
+
+@include dark {
+  --paper-title:    #3eb7f0;
+  --paper-link:     #5cc0f2;
+  --paper-link-on:  #20212b;
+  --paper-note:     #f0959e;
+  --paper-muted:    #9b9ca4;
+  --paper-section:  #8e9099;
+  --paper-rule:     rgba(255, 255, 255, 0.14);
+}
+
+/* ---- Section labels: Job Market Paper / Working Papers / Refereeing ---- */
+
+// `section h2.section-heading` ties with the theme's `html[data-theme="dark"] h2`
+// on specificity; this file is linked after the theme, so the tie falls here.
+section h2.section-heading {
+  margin: 2.9rem 0 1.3rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--paper-rule);
+  color: var(--paper-section);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+/* ---- A single paper entry ---- */
+
+.paper {
+  margin: 0 0 2.6rem;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+
+  .paper-head {
+    margin-bottom: 0.8rem;
+  }
+
+  .paper-title {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.35;
+    color: var(--paper-title);
+
+    a {
+      color: inherit;
+
+      &:hover {
+        color: inherit;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .paper-byline {
+    margin: 0.3rem 0 0;
+    font-size: 0.95rem;
+    color: var(--paper-muted);
+  }
+
+  .paper-note {
+    margin: 0.32rem 0 0;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--paper-note);
+  }
+
+  /* ---- Draft / SSRN buttons ---- */
+
+  .paper-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0 0 0.9rem;
+
+    a {
+      display: inline-block;
+      padding: 0.3rem 0.8rem;
+      border: 1px solid var(--paper-link);
+      border-radius: 4px;
+      color: var(--paper-link);
+      font-size: 0.82rem;
+      font-weight: 600;
+      line-height: 1.35;
+      transition: background-color 0.15s ease, color 0.15s ease;
+
+      &:hover {
+        background-color: var(--paper-link);
+        color: var(--paper-link-on);
+        text-decoration: none;
+      }
+    }
+  }
+
+  /* ---- Collapsible abstract ---- */
+
+  .paper-abstract {
+    margin: 0 0 0.85rem;
+
+    summary {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--paper-link);
+      cursor: pointer;
+      list-style: none;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &::before {
+        content: "";
+        border-left: 0.38rem solid currentColor;
+        border-top: 0.28rem solid transparent;
+        border-bottom: 0.28rem solid transparent;
+        transition: transform 0.15s ease;
+      }
+    }
+
+    &[open] summary::before {
+      transform: rotate(90deg);
+    }
+
+    p {
+      margin: 0.65rem 0 0;
+      padding-left: 0.9rem;
+      border-left: 2px solid var(--paper-rule);
+      font-size: 0.94rem;
+      line-height: 1.6;
+      text-align: justify;
+    }
+  }
+
+  /* ---- "Presented at" line ---- */
+
+  .paper-venues {
+    margin: 0;
+    font-size: 0.85rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: var(--paper-muted);
+  }
+}
