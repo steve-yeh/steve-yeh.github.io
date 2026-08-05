@@ -8,9 +8,9 @@ layout: homepage
   padding: 15px; 
   border-radius: 8px; 
 } 
-.shaded-box h2 {
+.shaded-box h3 {
   color: #3777a1ff;
-  border-bottom: 3px solid #3777a1ff;
+  border-bottom: 1px solid #3777a1ff;
   padding-bottom: 8px;
   margin-top: 0;
   width: 100%; /* Ensures it spans the full container width */
@@ -23,15 +23,12 @@ layout: homepage
 
 </style>
 
-## About Me
 
-I am currently a risingth year PhD student in the Department of Economics at Columbia University. 
+I am currently a rising 6th year PhD student in the Department of Economics at Columbia University. 
+
+My research focuses on how networks 
 
 #### I will be on the 2026-2027 job market.
-
-My research interests include networks and game theory. I am advised by Prof. Evan Sadler.
-
-I graduated _Summa Cum Laude_ in Economics and _Magna Cum Laude_ in Mathematics (Concentration in Pure Math) with Minors in Computer Science and Law & Society from Cornell University in May 2021. 
 
 My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
@@ -39,16 +36,18 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ## Job Market Paper
 
+---
+
 <br>
 
 <div class="shaded-box" markdown="1">
 
-## A Network Theory of Project Management
+### A Network Theory of Project Management
 
-<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 5px 10px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
     <a href="assets/files/Network_Theory_of_Project_Management.pdf" style="color: #275e83ff !important; font-size: 15px;"><strong>Draft</strong></a>
 </div>
-<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #245475;">
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 5px 10px; border-radius: 10px; background-color: #3777a115; color: #245475;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
 
@@ -71,15 +70,17 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 ## Working Papers
 
+---
+
 <br>
 
 <div class="shaded-box" markdown="1">
 
-## A Shocking Reversal: Flipping Complements and Substitutes in Network Games (with Evan Sadler)
+### A Shocking Reversal: Flipping Complements and Substitutes in Network Games (with Evan Sadler)
 
 #### Extended abstract at EC '26.
 
-<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 5px 10px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
 
@@ -100,9 +101,9 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <div class="shaded-box" markdown="1">
 
-## Plausible Pairwise Stability
+### Plausible Pairwise Stability
 
-<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 5px 10px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
 
@@ -123,9 +124,9 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <div class="shaded-box" markdown="1">
 
-## Optimal Project Task Assignments
+### Optimal Project Task Assignments
 
-<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 5px 10px; border-radius: 10px; background-color: #3777a115; color: #275e83ff;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892" style="color: #275e83ff !important; font-size: 15px;"><strong>SSRN</strong></a>
 </div>
 
