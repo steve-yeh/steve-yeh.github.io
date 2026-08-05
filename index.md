@@ -42,7 +42,16 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <div class="shaded-box" markdown="1">
 
-## [A Network Theory of Project Management](assets/files/Network_Theory_of_Project_Management.pdf) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #ad7738ff; font-size: 17px;">[SSRN]</a>
+## A Network Theory of Project Management
+
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #245475;">
+    <a href="assets/files/Network_Theory_of_Project_Management.pdf" style="color: #245475; font-size: 15px;"><strong>Draft</strong></a>
+</div>
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #245475;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023898" style="color: #245475; font-size: 15px;"><strong>SSRN</strong></a>
+</div>
+
+<br>
 
 <details>
 
@@ -65,9 +74,15 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <div class="shaded-box" markdown="1">
 
-## A Shocking Reversal: Flipping Complements and Substitutes in Network Games (with Evan Sadler) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228" style="color: #ad7738ff; font-size: 17px;">[SSRN]</a>
+## A Shocking Reversal: Flipping Complements and Substitutes in Network Games (with Evan Sadler)
 
 #### Extended abstract at EC '26.
+
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #245475;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228" style="color: #245475; font-size: 15px;"><strong>SSRN</strong></a>
+</div>
+
+<br>
 
 <details>
   <summary>Abstract</summary>
@@ -84,7 +99,14 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <div class="shaded-box" markdown="1">
 
-## Plausible Pairwise Stability <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978" style="color: #ad7738ff; font-size: 17px;">[SSRN]</a>
+## Plausible Pairwise Stability
+
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #245475;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6445978" style="color: #245475; font-size: 15px;"><strong>SSRN</strong></a>
+</div>
+
+<br>
+
 <details>
   <summary>Abstract</summary>
   I propose a stability concept for network formation under incomplete information. A network is plausibly pairwise stable if players’ beliefs are consistent with common knowledge of network stability. I provide a general condition under which plausibly pairwise stable networks exhibit clustering. In a simple model of vertical differentiation, I characterize minimal plausibly pairwise stable networks. I show that incomplete information can stabilize segregated and sparse networks that are unstable under complete information. I discuss how incomplete information resolves the tension between stability and efficiency in the presence of negative linking externalities.
@@ -100,7 +122,14 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
 <div class="shaded-box" markdown="1">
 
-## Optimal Project Task Assignments <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892" style="color: #ad7738ff; font-size: 17px;">[SSRN]</a>
+## Optimal Project Task Assignments
+
+<div style="display: inline-block; border: 1px solid #3777a140; padding: 10px 15px; border-radius: 10px; background-color: #3777a115; color: #245475;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892" style="color: #245475; font-size: 15px;"><strong>SSRN</strong></a>
+</div>
+
+<br>
+
 <details>
   <summary>Abstract</summary>
   A principal assigns agents to tasks in a multi-task project. Agents tend to shirk at their tasks and rely on others’ efforts because effort on one task substitutes for effort on similar tasks. Assigning the same agent to more tasks mitigates free-riding, but convex effort costs prevent him from completing all of his tasks. For a class of projects, an optimal task assignment assigns each agent to a module comprising a task central to the project and all locally related tasks. For general projects, modular task assignments are approximately optimal with a performance guarantee that depends on a project's task structure.
