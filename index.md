@@ -4,7 +4,7 @@ layout: homepage
 
 I am currently a rising 6th year PhD student in the Department of Economics at Columbia University.
 
-My research primarily focuses on networks in economic theory and organizations.
+My current research interest lies in understanding how various interactions among agents affect managerial decisions. A second strand of my work asks what canonical network models take for granted and shows that challenging these assumptions can overturn standard conclusions.
 
 #### I will be on the 2026-2027 job market.
 
