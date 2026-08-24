@@ -39,8 +39,8 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
     <h3 class="paper-title">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892">Optimal Project Task Assignments</a>
     </h3>
-  </div>
   <p class="paper-note">Revise and Resubmit at Theoretical Economics</p>
+  </div>
 
   <p class="paper-links">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892">SSRN</a>
