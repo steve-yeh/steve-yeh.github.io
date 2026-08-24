@@ -37,6 +37,26 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 <div class="paper">
   <div class="paper-head">
     <h3 class="paper-title">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892">Optimal Project Task Assignments</a>
+    </h3>
+  </div>
+  <p class="paper-note">Revise and Resubmit at Theoretical Economics</p>
+
+  <p class="paper-links">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892">SSRN</a>
+  </p>
+
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p>A principal assigns agents to tasks in a multi-task project. Agents tend to shirk at their tasks and rely on others’ efforts because effort on one task substitutes for effort on similar tasks. Assigning the same agent to more tasks mitigates free-riding, but convex effort costs prevent him from completing all of his tasks. For a class of projects, an optimal task assignment assigns each agent to a module comprising a task central to the project and all locally related tasks. For general projects, modular task assignments are approximately optimal with a performance guarantee that depends on a project's task structure.</p>
+  </details>
+
+  <p class="paper-venues">Presented at: 35th Stony Brook International Conference on Game Theory, Northwestern-Kellogg Summer School in Economic Theory.</p>
+</div>
+
+<div class="paper">
+  <div class="paper-head">
+    <h3 class="paper-title">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6109228">A Shocking Reversal: Flipping Complements and Substitutes in Network Games</a>
     </h3>
     <p class="paper-byline">with Evan Sadler</p>
@@ -72,25 +92,6 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
   </details>
 
   <p class="paper-venues">Presented at: 36th Stony Brook International Conference on Game Theory, 2026 North American Summer Meeting of the Econometric Society.</p>
-</div>
-
-<div class="paper">
-  <div class="paper-head">
-    <h3 class="paper-title">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892">Optimal Project Task Assignments</a>
-    </h3>
-  </div>
-
-  <p class="paper-links">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999892">SSRN</a>
-  </p>
-
-  <details class="paper-abstract">
-    <summary>Abstract</summary>
-    <p>A principal assigns agents to tasks in a multi-task project. Agents tend to shirk at their tasks and rely on others’ efforts because effort on one task substitutes for effort on similar tasks. Assigning the same agent to more tasks mitigates free-riding, but convex effort costs prevent him from completing all of his tasks. For a class of projects, an optimal task assignment assigns each agent to a module comprising a task central to the project and all locally related tasks. For general projects, modular task assignments are approximately optimal with a performance guarantee that depends on a project's task structure.</p>
-  </details>
-
-  <p class="paper-venues">Presented at: 35th Stony Brook International Conference on Game Theory, Northwestern-Kellogg Summer School in Economic Theory.</p>
 </div>
 
 <h2 class="section-heading">Refereeing</h2>
