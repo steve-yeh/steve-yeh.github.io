@@ -4,7 +4,7 @@ layout: homepage
 
 I am currently a rising 6th year PhD student in the Department of Economics at Columbia University.
 
-I am a microeconomic theorist working on networks, both within organizations and in economic theory more broadly. My current research interest lies in understanding how interactions among workers shape managerial decisions— in particular, how managers assign them to projects or tasks. A second strand of my work asks broadly what canonical network models take for granted and shows that challenging these assumptions
+I am a microeconomic theorist working on networks, both within organizations and in economic theory more broadly. My current research interest lies in understanding how interactions among workers shape managerial decisions— in particular, how managers assign workers to projects or tasks. A second strand of my work asks broadly what canonical network models take for granted and shows that challenging these assumptions
 can overturn standard conclusions.
 
 #### I will be on the 2026-2027 job market.
