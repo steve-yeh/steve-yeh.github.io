@@ -2,12 +2,12 @@
 layout: homepage
 ---
 
-I am currently a rising 6th year PhD student in the Department of Economics at Columbia University.
+I am currently a 6th year PhD student in the Department of Economics at Columbia University.
 
 I am a microeconomic theorist working on networks, both within organizations and in economic theory more broadly. My current research interest lies in understanding how interactions among workers shape managerial decisions— in particular, how managers assign workers to projects or tasks. A second strand of my work asks broadly what canonical network models take for granted and shows that challenging these assumptions
 can overturn standard conclusions.
 
-#### I will be on the 2026-2027 job market.
+#### I am on the 2026-2027 job market.
 
 My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
@@ -27,7 +27,7 @@ My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
 
   <details class="paper-abstract">
     <summary>Abstract</summary>
-    <p>A principal staffs projects by capping how much effort each worker can contribute to each project. Workers prefer some projects over others and work more willingly alongside teammates, but find spreading effort across projects costly. Optimal assignments are characterized by two cutoffs per worker on a single ranking of projects: each worker contributes freely to projects before his first cutoff, is capped below what he would like to contribute between the two, and is unassigned after the second. Because the ranking is common to all workers, project teams are nested. Sorting generalists from specialists depends on a core trade-off: strong ties make a worker valuable to one team but expensive to spread across teams. The sorting index is a ratio of two centralities assessing a worker's influence on collaborators' aggregate effort relative to his local influence within a single team. Assignment selects the network through which shocks propagate, and an improvement local to one project can degrade every other project in the organization.</p>
+    <p>Managers often cannot adjust pay, but they regularly decide who works on which projects. I study a manager who staffs projects by capping each worker's effort on each project. Workers prefer some projects over others and work more willingly alongside teammates, but find spreading effort across projects costly. Optimal assignments are characterized by a single ranking of projects, and each worker contributes freely, is held below his desired effort, or is unassigned according to two worker-specific cutoffs on it. Because the ranking is common to all workers, project teams are nested. Standard network centrality fails to identify generalists and specialists because the links that make a worker valuable to a project team also make spreading him across several teams costly. Workers instead sort by a ratio of two centralities capturing their comparative advantage in spreading versus concentrating effort. Assignment selects the network through which shocks propagate, and an improvement local to one project can degrade every other project in the organization.</p>
   </details>
 
   <p class="paper-venues">Presented at: 37th Stony Brook International Conference on Game Theory, Economics of Networks Workshop at Stony Brook, Advances in Economic Theory and Beyond at Tsinghua University (Upcoming).</p>
