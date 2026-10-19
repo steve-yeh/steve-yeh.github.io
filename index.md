@@ -4,7 +4,7 @@ layout: homepage
 
 I am currently a 6th year PhD student in the Department of Economics at Columbia University.
 
-I am a microeconomic theorist working on networks, both within organizations and in economic theory more broadly. My primary research analyzes how managers organize production by staffing projects and designing organizational structure. A second strand of my work examines what canonical network models take for granted and shows that relaxing these assumptions can overturn standard conclusions.
+I am an applied microeconomic theorist working on networks, both within organizations and in economic theory more broadly. My primary research analyzes how managers organize production by staffing projects and designing organizational structure. A second strand of my work examines what canonical network models take for granted and shows that relaxing these assumptions can overturn standard conclusions.
 
 I am fortunate to be advised by Evan Sadler.
 
