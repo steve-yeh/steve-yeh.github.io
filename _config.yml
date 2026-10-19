@@ -2,18 +2,18 @@
 title: Steve Yeh
 position: Ph.D. Student
 affiliation: Columbia University
-email: sy3012@columbia.edu
+email: steve.rj.yeh@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Steve Yeh Columbia University PhD Student Economics Networks
+keywords: Steve Yeh Columbia University PhD Student Economics Networks Organization Job Market
 description: Academic personal homepage for Steve Yeh at Columbia University.
 canonical: https://steve-yeh.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=M34uKu8AAAAJ&hl=en&oi=sra
-cv_link: assets/files/Steve_Yeh_CV.pdf
+cv_link: assets/files/CV_SY.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

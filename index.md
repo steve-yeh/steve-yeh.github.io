@@ -10,7 +10,7 @@ I am fortunate to be advised by Evan Sadler.
 
 #### I am on the 2026-2027 job market.
 
-My CV is linked [here](assets/files/Steve_Yeh_CV.pdf).
+My CV is linked [here](assets/files/CV_SY.pdf).
 
 <h2 class="section-heading">Job Market Paper</h2>
 
